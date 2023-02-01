@@ -1,0 +1,1 @@
+In this project i will be creating a recipe website in a bruhtalist style. i will be learning how to properly form a website with html5 and hopefully some css to style it. Ill be putting my newly leanered html skills to use for the first time.
