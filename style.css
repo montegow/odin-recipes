@@ -1,0 +1,22 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+.text{
+    font-weight: 800;
+    text-align: center;
+    color: red;
+}
+
+.text.title{
+    font-size:xx-large
+}
+
+.text.heading{
+    font-size: large;
+}
+
+.text.recipes{
+    font-size:medium;
+}
